@@ -22,7 +22,7 @@ azure-functions-core-tools-node \
 func host start
 ```
 
-Use $(pwd) to specify the current directory as `YOUR_DIRECTORY`.
+Use `$(pwd)` to specify the current directory as `YOUR_DIRECTORY`.
 
 Sample
 
